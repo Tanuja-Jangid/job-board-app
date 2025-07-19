@@ -16,7 +16,6 @@ A full-stack **Job Board Application** built using **FastAPI**, **React.js**, an
 - [📦 Postman Collection](#-postman-collection)
 - [🛠️ Developer Notes](#️-developer-notes)
 - [✅ Author](#-author)
-- [🪪 License](#-license)
 
 ---
 
